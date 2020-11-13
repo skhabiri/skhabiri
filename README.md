@@ -10,5 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: veggiecode@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Got two Master's degree in the same field of study
--->
+- ⚡ Fun fact: Have two Master's degree both in Electrical and Computer Engineering
