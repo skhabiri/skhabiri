@@ -1,9 +1,11 @@
 ### Shawn Khabiri
 
-AI lead and hands-on engineer with 20+ years across Silicon Valley startups and financial services.
+Applied AI Principal Engineer & Architect. Stanford-trained, with 9+ years in AI/ML and 11+ years of hardware engineering experience.
 
-- Working on generative AI and large language model systems
-- Background in deep learning, computer vision and NLP, after 10+ years in silicon design
+- Generative AI and LLM systems, fraud detection and computer vision
+- Two patent applications filed (LLM fine-tuning; classifying severely imbalanced data)
+- Earlier career in mixed-signal IC design: Flash memories, delta-sigma ADCs and switch-mode DC-DC converters
 - M.S. Stanford (Electrical Engineering), M.A.Sc. Carleton (Electrical Engineering)
+- Ranked in the top 0.042% on national university entrance exams
 
 [skhabiri.com](https://skhabiri.com) | [LinkedIn](https://www.linkedin.com/in/skhabiri/)
