@@ -1,6 +1,6 @@
 ### Shawn Khabiri
 
-Applied AI Principal Engineer & Architect. Stanford-trained, with 9+ years in AI/ML and 11+ years of hardware engineering experience.
+Principal engineer and architect with 9+ years in AI/ML and 11+ years of hardware engineering experience.
 
 - Generative AI and LLM systems, fraud detection and computer vision
 - Two patent applications filed (LLM fine-tuning; classifying severely imbalanced data)
